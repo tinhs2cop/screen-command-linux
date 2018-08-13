@@ -3,4 +3,4 @@ site_description:  Hướng dẫn sử dụng CCALL
 theme: readthedocs
 pages:
     - 'Mục lục': 'index.md'
-    - 'Test 2': 'index.md'
+    - 'Test 2': 'sachmem.md'
