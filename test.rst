@@ -1,85 +1,55 @@
-screen-command-linux
-====================
+.. ibus-bogo documentation master file, created by
+   sphinx-quickstart on Thu Mar 28 00:22:49 2013.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-Hướng dẫn sử dụng lệnh screen trong Linux
+Tài liệu hướng dẫn của dự án ibus-bogo
+======================================
 
-### Giới thiệu
+**ibus-bogo** là một engine xử lý gõ tiếng Việt cho `IBus`_, một phần
+mềm quản lý các bộ gõ trong GNU/Linux.
 
-*Screen* hiểu nôm na là một câu lệnh cho phép chúng ta quản lý các kết nối SSH tới server Linux bằng các phím tắt trên cùng một cửa sổ console, đồng thời nó cũng cho phép giữ một cửa sổ (một câu lệnh) làm việc liên tục mặc cho việc kết nối từ SSH client bị ngắt.
+**ibus-bogo** được viết bằng ngôn ngữ Python và sử dụng engine
+xử lý tiếng Việt **BoGo**.
 
-Các chức năng của *screen*
+*Trang Github của dự án:* https://github.com/BoGoEngine/ibus-bogo-python
 
-- Quản lý các phiên làm việc từ xa (SSH)
-- Không giới hạn các cửa sổ làm việc
-- Copy, paste giữa các cửa sổ
-- Phân chia các cửa sổ làm việc
-- Khóa cửa sổ làm việc
-- ...
+Mục lục
+-------
 
-### Cách sử dụng Screen
+.. toctree::
+   :maxdepth: 2
+   
+   install
+   usage
+   customization
+   contributing
 
-Để sử dụng lệnh screen ta có thể sử dụng trên chính terminal của máy chủ hoặc trên SSH client (Putty, Secure Crt,...)
+Giấy phép xuất bản (License)
+----------------------------
 
-Chắc chắn rằng bạn đã tắt các bộ gõ tiếng Việt (Unikey, Vietkey,...)
+**ibus-bogo** là `phần mềm tự do nguồn mở`_.
 
-Trên các terminal này ta sử dụng lệnh
+Toàn bộ mã nguồn của **ibus-bogo** và **BoGo** cùng tất
+cả các tài nguyên đi kèm đều được phát hành dưới các quy định ghi
+trong Giấy phép Công cộng GNU, phiên bản 3.0 (GNU General Public
+License v3.0).
 
-    screen
+Ghi công (Credits)
+------------------
 
-Sau đó màn terminal sẽ vào *screen* mode, hình sau sẽ hiện ra
+Bản quyền thuộc về các tác giả nằm trong file `AUTHORS`_ với thời hạn
+ghi trong phần LICENSE của từng file mã nguồn.
+   
 
-<img src=http://i.imgur.com/WmYhjlv.png>
+.. _IBus: http://code.google.com/p/ibus/
+.. _phần mềm tự do nguồn mở: http://en.wikipedia.org/wiki/Free_and_open_source_software
+.. _AUTHORS: https://raw.github.com/BoGoEngine/ibus-bogo-python/develop/AUTHORS
 
-Ấn Enter và lúc này ta có thể thao tác với các terminal bằng screen
+Indices and tables
+==================
 
-Để không làm việc với screen nữa ta sử dụng lệnh
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
-    exit
-
-#### Các thao tác với phiên làm việc
-
-| Phím tắt | Hành động |
-|----------|-----------|
-| Ctrl+a c | Mở một phiên mới, các phiên được đánh số thứ tự tăng dần bắt đầu từ 0 |
-| Ctrl+a n | Chuyển cửa sổ hiện tại đến phiên tiếp theo |
-| Ctrl+a p | Chuyển cửa sổ hiện tại đến phiên trước đó |
-| Ctrl+a " | Liệt kê danh sách các phiên, di chuyển con trỏ đến phiên cần sử dụng và ấn Enter |
-| Ctrl+a Ctrl+a | Chuyển đổi giữa các phiên |
-| Ctrl+a A | Đặt tên cho phiên hiện tại |
-
-#### Các thao tác với cửa sổ làm việc
-
-| Phím tắt | Hành động |
-|----------|-----------|
-| Ctrl+a S | Chia đôi cửa sổ hiện tại thành hai nửa trên dưới |
-| Ctrl+a | | Chia đôi cửa sổ hiện tại thành hai nửa trái phải |
-| Ctrl+a tab | Chuyển sang cửa sổ tiếp theo, sau đó sử dụng các phím tắt với phiên làm việc |
-| Ctrl+a :resize | Chỉnh lại kích thước cửa sổ hiện tại, sau đó điền vào số dòng của cửa sổ mới |
-| Ctrl+a X | Đóng cửa sổ hiện tại |
-| Ctrl+a :remove | Giống Ctrl+a X |
-| Ctrl+a x | Khóa cửa sổ làm việc, nhập mật khẩu để mở lại |
-| Ctrl+a [ | Copy tại cửa sổ hiện tại, dùng phím Enter để đánh dấu vị trí chọn đầu tiên, đảm bảo Unikey đã tắt, Enter để kết thúc chọn |
-| Ctrl+a ] | Paste |
-| Ctrl+a > | write paste buffer to file |
-| Ctrl+a < | read paste buffer from file |
-| Ctrl+a ? | Hiện trợ giúp |
-| Ctrl+a : | Vào chế độ nhập phím tắt |
-
-**Lưu ý:** Cách giữ một phiên luôn hoạt động khi tắt Putty hoặc Secure Crt
-
-- Sử dụng ***Ctrl+a d*** để ẩn và chạy ngầm phiên hiện tại, có thể sử dụng cho nhiều phiên khác nhau. Lúc này phiên vẫn đang làm việc bình thường mặc dù có tắt terminal.
-- Sử dụng ***screen -list*** để liệt kê các phiên này
-
-
-        2120.pts-0.network1     (10/01/2014 01:56:11 PM)        (Detached)
-        1800.pts-0.network1     (10/01/2014 01:13:20 PM)        (Detached)
-        2 Sockets in /var/run/screen/S-root.
-
-
-- Sử dụng ***screen -r tên phiên*** để mở lại phiên đó. Ví dụ:
-
-
-        screen -r 2120.pts-0.network1
-
-
-Sử dụng cách này khi cần giữ một phiên làm việc trong thời gian dài mà không thể để mất kết nối, ví dụ như cần chạy một script cài đặt mất nhiều thời gian.
