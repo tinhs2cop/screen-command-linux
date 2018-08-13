@@ -2,4 +2,4 @@ site_name: Tình test
 site_description:  Hướng dẫn sử dụng CCALL
 theme: readthedocs
 pages:
-    - 'Mục lục': 'screen-command-linux.md'
+    - 'Mục lục': 'index.md'
