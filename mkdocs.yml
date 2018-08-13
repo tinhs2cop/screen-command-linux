@@ -1,6 +1,6 @@
-site_name: Tình test 
-site_description:  Hướng dẫn sử dụng CCALL
+site_name: Hướng dẫn sử dụng CCALL Softphone
+site_description:  Hướng dẫn sử dụng CCALL Softphone
 theme: readthedocs
 pages:
     - 'Mục lục': 'index.md'
-    - 'Test 2': 'sachmem.md'
+    - 'Sách mềm': 'sachmem.md'
