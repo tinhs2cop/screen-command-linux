@@ -68,7 +68,7 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
 #### Chuyển trực tiếp
 
-#### Chuyển có thâm vấn
+#### Chuyển có thân vấn
 
 ### Tạo phòng họp
 
