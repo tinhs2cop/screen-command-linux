@@ -8,7 +8,7 @@ Nếu là lần đầu tiên sử dụng, bạn cần phải đăng ký tài kho
 
 * Mở trình duyệt Chrome, Cốc Cốc, Firefox hoặc trình duyệt quen thuộc của bạn.
 * Truy cập trang web [https://register.ccall.vn](https://register.ccall.vn/).
-* Nhập thông tin của bạn vào để **Đăng ký**. Hệ thống sẽ gửi một tin nhắn vào số điện thoại bạn đã nhập chưa mã xác thực người .
+* Nhập thông tin của bạn vào để **Đăng ký**. Hệ thống sẽ gửi một tin nhắn vào số điện thoại bạn đã nhập chứa mã xác thực người dùng.
 
 ![](.gitbook/assets/screen-shot-2018-08-14-at-13.45.09.png)
 
@@ -24,5 +24,11 @@ Nếu là lần đầu tiên sử dụng, bạn cần phải đăng ký tài kho
 
 ![](.gitbook/assets/screen-shot-2018-08-14-at-13.46.11.png)
 
+## Đăng nhập
 
+Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
+
+### Cài đặt ứng dụng CCALL Softphone
+
+Vào Google Play 
 
