@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng CCALL Softphone
+# Hướng dẫn sử dụng CCALL Softphone
 
 Tài liệu hướng dẫn cài đặt và sử dụng CCALL Softphone cho khách hàng sử dụng tổng đài CCALL Cloud 
 
