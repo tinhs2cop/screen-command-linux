@@ -30,5 +30,53 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
 ### Cài đặt ứng dụng CCALL Softphone
 
-Vào Google Play 
+* Truy cập **Google Play** [tại đây](https://play.google.com/store/apps/details?id=vn.ccall.android) cho máy **Android** hoặc truy cập **Appstore** [tại đây](https://itunes.apple.com/us/app/ccall-softphone/id1386720616?mt=8) cho máy **iOS**. 
+
+![](.gitbook/assets/tai-ung-dung.png)
+
+* Nhấn **Start** để bắt đầu sử dụng CCALL Softphone. Nhập số điện thoại hoặc email cùng mật khẩu bạn đã đặt trước đó sau đó nhấn **Login**. 
+
+![](.gitbook/assets/1.png)
+
+* Chọn tài khoản cần kích hoạt như hình dưới và ấn **Activate** để kích hoạt tài khoản đó. 
+
+![](.gitbook/assets/2.png)
+
+* CCALL Softphone sẽ tải thông tin cầu hình của tài khoản và thực hiện cài đặt ứng dụng _\(bạn cần chờ đợi trong một vài phút để hoàn thành quá trình cài đặt\)_. Nhấn vào biểu tượng **gọi tổng đài viên** để kiểm thử cuộc gọi hoặc bạn có thể đăng ký thêm một tài khoản khác và gọi trực tiếp cho nhau thông qua hệ thống tổng đài test của CCALL Softphone. Bạn đã đăng ký tổng đài CCALL Cloud nhấn vào biểu tượng **Menu** để thêm cấu hình cho máy nhánh. 
+
+![](.gitbook/assets/8.png)
+
+* Nhấn **Cài đặt tài khoản** sau đó chọn **Edit Account** để thêm máy nhánh cho tổng đài CCALL Cloud của công ty bạn. 
+
+![](.gitbook/assets/4.png)
+
+* Chọn **Add SIP extension**, điền thông tin **máy nhánh nội bộ**, **mật khẩu máy nhánh** tương ứng, **domain tổng đài** của bạn. Sau đó nhấn **Save** để lưu lại thông tin máy nhánh nội bộ. `Lưu ý: Thông tin được CCALL Softphone gửi cho bạn thông qua email kích hoạt tài khoản khi bạn đăng ký sử dụng dịch vụ CCALL Cloud.`
+
+![](.gitbook/assets/5.png)
+
+* Nhấn kích hoạt máy nhánh nội bộ vừa thêm để sử dụng, trở về màn hình **Edit Account** bằng cách nhấn vào biểu tượng **Edit Account** như trên hình. 
+
+![](.gitbook/assets/6.png)
+
+* Lưu lại cấu hình để hoàn tất quá trình cài đặt, ngoài ra bạn có thể chọn **Tái thiết lập ứng dụng** để thoát hoàn toàn tài khoản CCALL Softphone. 
+
+![](.gitbook/assets/7.png)
+
+### Thực hiện cuộc gọi
+
+### Chuyển cuộc gọi
+
+#### Chuyển trực tiếp
+
+#### Chuyển có thâm vấn
+
+### Tạo phòng họp
+
+### Ghi âm cuộc gọi
+
+### Nhắn tin nội bộ
+
+### DND
+
+
 
