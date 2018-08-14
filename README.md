@@ -1,6 +1,6 @@
 # Hướng dẫn sử dụng CCALL Softphone
 
-Tài liệu hướng dẫn cài đặt và sử dụng CCALL Softphone cho khách hàng sử dụng tổng đài CCALL Cloud 
+Tài liệu hướng dẫn cài đặt và sử dụng CCALL Softphone cho khách hàng sử dụng tổng đài CCALL Cloud
 
 ## Đăng ký
 
@@ -77,3 +77,4 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 ### Nhắn tin nội bộ
 
 ### DND
+
