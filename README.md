@@ -1,89 +1,79 @@
 # Hướng dẫn sử dụng CCALL Softphone
 
-Hướng dẫn sử dụng lệnh screen trong Linux
+Tài liệu hướng dẫn cài đặt và sử dụng CCALL Softphone cho khách hàng sử dụng tổng đài CCALL Cloud 
 
-## Giới thiệu
+## Đăng ký
 
-_Screen_ hiểu nôm na là một câu lệnh cho phép chúng ta quản lý các kết nối SSH tới server Linux bằng các phím tắt trên cùng một cửa sổ console, đồng thời nó cũng cho phép giữ một cửa sổ \(một câu lệnh\) làm việc liên tục mặc cho việc kết nối từ SSH client bị ngắt.
+Nếu là lần đầu tiên sử dụng, bạn cần phải đăng ký tài khoản. Để đăng kí tài khoản, bạn làm như sau:
 
-Các chức năng của _screen_
+* Mở trình duyệt Chrome, Cốc Cốc, Firefox hoặc trình duyệt quen thuộc của bạn.
+* Truy cập trang web [https://register.ccall.vn](https://register.ccall.vn/).
+* Nhập thông tin của bạn vào để **Đăng ký**. Hệ thống sẽ gửi một tin nhắn vào số điện thoại bạn đã nhập chứa mã xác thực người dùng.
 
-* Quản lý các phiên làm việc từ xa \(SSH\)
-* Không giới hạn các cửa sổ làm việc
-* Copy, paste giữa các cửa sổ
-* Phân chia các cửa sổ làm việc
-* Khóa cửa sổ làm việc
-* ...
+![](.gitbook/assets/screen-shot-2018-08-14-at-13.45.09.png)
 
-## Cách sử dụng Screen
+* Nhập mã xác thực người dùng để kích hoạt tài khoản của bạn.
 
-Để sử dụng lệnh screen ta có thể sử dụng trên chính terminal của máy chủ hoặc trên SSH client \(Putty, Secure Crt,...\)
+![](.gitbook/assets/screen-shot-2018-08-14-at-13.46.40.png)
 
-Chắc chắn rằng bạn đã tắt các bộ gõ tiếng Việt \(Unikey, Vietkey,...\)
+* Nhấn tiếp tục, bạn cần nhập mật khẩu cho tài khoản của mình để đăng nhập trên CCALL Softphone.
 
-Trên các terminal này ta sử dụng lệnh
+![](.gitbook/assets/screen-shot-2018-08-14-at-13.45.47.png)
 
-```text
-screen
-```
+* Nhấn tiếp tục, bạn đã hoàn thành việc đăng ký tài khoản của CCALL Softphone. Bây giờ bạn có thể đăng nhập và sử dụng dịch vụ.
 
-Sau đó màn terminal sẽ vào _screen_ mode, hình sau sẽ hiện ra
+![](.gitbook/assets/screen-shot-2018-08-14-at-13.46.11.png)
 
-![](http://i.imgur.com/WmYhjlv.png)
+## Đăng nhập
 
-Ấn Enter và lúc này ta có thể thao tác với các terminal bằng screen
+Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
-Để không làm việc với screen nữa ta sử dụng lệnh
+### Cài đặt ứng dụng CCALL Softphone
 
-```text
-exit
-```
+* Truy cập **Google Play** [tại đây](https://play.google.com/store/apps/details?id=vn.ccall.android) cho máy **Android** hoặc truy cập **Appstore** [tại đây](https://itunes.apple.com/us/app/ccall-softphone/id1386720616?mt=8) cho máy **iOS**. 
 
-### Các thao tác với phiên làm việc
+![](.gitbook/assets/tai-ung-dung.png)
 
-| Phím tắt | Hành động |
-| :--- | :--- |
-| Ctrl+a c | Mở một phiên mới, các phiên được đánh số thứ tự tăng dần bắt đầu từ 0 |
-| Ctrl+a n | Chuyển cửa sổ hiện tại đến phiên tiếp theo |
-| Ctrl+a p | Chuyển cửa sổ hiện tại đến phiên trước đó |
-| Ctrl+a " | Liệt kê danh sách các phiên, di chuyển con trỏ đến phiên cần sử dụng và ấn Enter |
-| Ctrl+a Ctrl+a | Chuyển đổi giữa các phiên |
-| Ctrl+a A | Đặt tên cho phiên hiện tại |
+* Nhấn **Start** để bắt đầu sử dụng CCALL Softphone. Nhập số điện thoại hoặc email cùng mật khẩu bạn đã đặt trước đó sau đó nhấn **Login**. 
 
-### Các thao tác với cửa sổ làm việc
+![](.gitbook/assets/1.png)
 
-| Phím tắt | Hành động |
-| :--- | :--- |
-| Ctrl+a S | Chia đôi cửa sổ hiện tại thành hai nửa trên dưới |
-| Ctrl+a | Chia đôi cửa sổ hiện tại thành hai nửa trái phải |
-| Ctrl+a tab | Chuyển sang cửa sổ tiếp theo, sau đó sử dụng các phím tắt với phiên làm việc |
-| Ctrl+a :resize | Chỉnh lại kích thước cửa sổ hiện tại, sau đó điền vào số dòng của cửa sổ mới |
-| Ctrl+a X | Đóng cửa sổ hiện tại |
-| Ctrl+a :remove | Giống Ctrl+a X |
-| Ctrl+a x | Khóa cửa sổ làm việc, nhập mật khẩu để mở lại |
-| Ctrl+a \[ | Copy tại cửa sổ hiện tại, dùng phím Enter để đánh dấu vị trí chọn đầu tiên, đảm bảo Unikey đã tắt, Enter để kết thúc chọn |
-| Ctrl+a \] | Paste |
-| Ctrl+a &gt; | write paste buffer to file |
-| Ctrl+a &lt; | read paste buffer from file |
-| Ctrl+a ? | Hiện trợ giúp |
-| Ctrl+a : | Vào chế độ nhập phím tắt |
+* Chọn tài khoản cần kích hoạt như hình dưới và ấn **Activate** để kích hoạt tài khoản đó. 
 
-**Lưu ý:** Cách giữ một phiên luôn hoạt động khi tắt Putty hoặc Secure Crt
+![](.gitbook/assets/2.png)
 
-* Sử dụng _**Ctrl+a d**_ để ẩn và chạy ngầm phiên hiện tại, có thể sử dụng cho nhiều phiên khác nhau. Lúc này phiên vẫn đang làm việc bình thường mặc dù có tắt terminal.
-* Sử dụng _**screen -list**_ để liệt kê các phiên này
+* CCALL Softphone sẽ tải thông tin cầu hình của tài khoản và thực hiện cài đặt ứng dụng _\(bạn cần chờ đợi trong một vài phút để hoàn thành quá trình cài đặt\)_. Nhấn vào biểu tượng **gọi tổng đài viên** để kiểm thử cuộc gọi hoặc bạn có thể đăng ký thêm một tài khoản khác và gọi trực tiếp cho nhau thông qua hệ thống tổng đài test của CCALL Softphone. Bạn đã đăng ký tổng đài CCALL Cloud nhấn vào biểu tượng **Menu** để thêm cấu hình cho máy nhánh. 
 
-```text
-    2120.pts-0.network1     (10/01/2014 01:56:11 PM)        (Detached)
-    1800.pts-0.network1     (10/01/2014 01:13:20 PM)        (Detached)
-    2 Sockets in /var/run/screen/S-root.
-```
+![](.gitbook/assets/8.png)
 
-* Sử dụng _**screen -r tên phiên**_ để mở lại phiên đó. Ví dụ:
+* Nhấn **Cài đặt tài khoản** sau đó chọn **Edit Account** để thêm máy nhánh cho tổng đài CCALL Cloud của công ty bạn. 
 
-```text
-    screen -r 2120.pts-0.network1
-```
+![](.gitbook/assets/4.png)
 
-Sử dụng cách này khi cần giữ một phiên làm việc trong thời gian dài mà không thể để mất kết nối, ví dụ như cần chạy một script cài đặt mất nhiều thời gian.
+* Chọn **Add SIP extension**, điền thông tin **máy nhánh nội bộ**, **mật khẩu máy nhánh** tương ứng, **domain tổng đài** của bạn. Sau đó nhấn **Save** để lưu lại thông tin máy nhánh nội bộ. `Lưu ý: Thông tin được CCALL Softphone gửi cho bạn thông qua email kích hoạt tài khoản khi bạn đăng ký sử dụng dịch vụ CCALL Cloud.`
 
+![](.gitbook/assets/5.png)
+
+* Nhấn kích hoạt máy nhánh nội bộ vừa thêm để sử dụng, trở về màn hình **Edit Account** bằng cách nhấn vào biểu tượng **Edit Account** như trên hình. 
+
+![](.gitbook/assets/6.png)
+
+* Lưu lại cấu hình để hoàn tất quá trình cài đặt, ngoài ra bạn có thể chọn **Tái thiết lập ứng dụng** để thoát hoàn toàn tài khoản CCALL Softphone. 
+
+![](.gitbook/assets/7.png)
+
+### Thực hiện cuộc gọi
+
+### Chuyển cuộc gọi
+
+#### Chuyển trực tiếp
+
+#### Chuyển có thâm vấn
+
+### Tạo phòng họp
+
+### Ghi âm cuộc gọi
+
+### Nhắn tin nội bộ
+
+### DND
