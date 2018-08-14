@@ -1,6 +1,6 @@
 # Table of contents
 
-* [huong dan su dung CCALL Softphone](README.md)
+* [Huong dan su dung CCALL Softphone](README.md)
 #* [docs](docs/README.md)
 #  * [screen-command-linux](docs/index.md)
 #  * [Hướng dẫn sử dụng sách mềm](docs/sachmem.md)
