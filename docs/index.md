@@ -52,9 +52,9 @@ exit
 
 ### Các thao tác với cửa sổ làm việc
 
-| Phím tắt | Hành động |  
-| :--- | :--- | 
-| Ctrl+a S | Chia đôi cửa sổ hiện tại thành hai nửa trên dưới |  
+| Phím tắt | Hành động |
+| :--- | :--- |
+| Ctrl+a S | Chia đôi cửa sổ hiện tại thành hai nửa trên dưới |
 | Ctrl+a | Chia đôi cửa sổ hiện tại thành hai nửa trái phải |
 | Ctrl+a tab | Chuyển sang cửa sổ tiếp theo, sau đó sử dụng các phím tắt với phiên làm việc |
 | Ctrl+a :resize | Chỉnh lại kích thước cửa sổ hiện tại, sau đó điền vào số dòng của cửa sổ mới |
