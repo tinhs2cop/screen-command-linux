@@ -52,21 +52,21 @@ exit
 
 ### Các thao tác với cửa sổ làm việc
 
-| Phím tắt | Hành động |  |
-| :--- | :--- | :--- |
-| Ctrl+a S | Chia đôi cửa sổ hiện tại thành hai nửa trên dưới |  |
-| Ctrl+a |  | Chia đôi cửa sổ hiện tại thành hai nửa trái phải |
-| Ctrl+a tab | Chuyển sang cửa sổ tiếp theo, sau đó sử dụng các phím tắt với phiên làm việc |  |
-| Ctrl+a :resize | Chỉnh lại kích thước cửa sổ hiện tại, sau đó điền vào số dòng của cửa sổ mới |  |
-| Ctrl+a X | Đóng cửa sổ hiện tại |  |
-| Ctrl+a :remove | Giống Ctrl+a X |  |
-| Ctrl+a x | Khóa cửa sổ làm việc, nhập mật khẩu để mở lại |  |
-| Ctrl+a \[ | Copy tại cửa sổ hiện tại, dùng phím Enter để đánh dấu vị trí chọn đầu tiên, đảm bảo Unikey đã tắt, Enter để kết thúc chọn |  |
-| Ctrl+a \] | Paste |  |
-| Ctrl+a &gt; | write paste buffer to file |  |
-| Ctrl+a &lt; | read paste buffer from file |  |
-| Ctrl+a ? | Hiện trợ giúp |  |
-| Ctrl+a : | Vào chế độ nhập phím tắt |  |
+| Phím tắt | Hành động |  
+| :--- | :--- | 
+| Ctrl+a S | Chia đôi cửa sổ hiện tại thành hai nửa trên dưới |  
+| Ctrl+a | Chia đôi cửa sổ hiện tại thành hai nửa trái phải |
+| Ctrl+a tab | Chuyển sang cửa sổ tiếp theo, sau đó sử dụng các phím tắt với phiên làm việc |
+| Ctrl+a :resize | Chỉnh lại kích thước cửa sổ hiện tại, sau đó điền vào số dòng của cửa sổ mới |
+| Ctrl+a X | Đóng cửa sổ hiện tại |
+| Ctrl+a :remove | Giống Ctrl+a X |
+| Ctrl+a x | Khóa cửa sổ làm việc, nhập mật khẩu để mở lại |
+| Ctrl+a \[ | Copy tại cửa sổ hiện tại, dùng phím Enter để đánh dấu vị trí chọn đầu tiên, đảm bảo Unikey đã tắt, Enter để kết thúc chọn |
+| Ctrl+a \] | Paste |
+| Ctrl+a &gt; | write paste buffer to file |
+| Ctrl+a &lt; | read paste buffer from file |
+| Ctrl+a ? | Hiện trợ giúp |
+| Ctrl+a : | Vào chế độ nhập phím tắt |
 
 **Lưu ý:** Cách giữ một phiên luôn hoạt động khi tắt Putty hoặc Secure Crt
 
