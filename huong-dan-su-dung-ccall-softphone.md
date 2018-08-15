@@ -1,6 +1,3 @@
-//! moment.js locale configuration
-//! locale : Vietnamese [vi]
-//! author : Tinh Do : https://github.com/tinhs2cop
 # Hướng dẫn sử dụng CCALL Softphone
 
 Tài liệu hướng dẫn cài đặt và sử dụng CCALL Softphone cho khách hàng sử dụng tổng đài CCALL Cloud
