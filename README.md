@@ -50,7 +50,7 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
 ![](.gitbook/assets/4.png)
 
-* Chọn **Add SIP extension**, điền thông tin **máy nhánh nội bộ**, **mật khẩu máy nhánh** tương ứng, **domain tổng đài** của bạn. Sau đó nhấn **Save** để lưu lại thông tin máy nhánh nội bộ. `Lưu ý: Thông tin được CCALL Softphone gửi cho bạn thông qua email kích hoạt tài khoản khi bạn đăng ký sử dụng dịch vụ CCALL Cloud.`
+* Chọn **Add SIP extension**, điền thông tin **máy nhánh nội bộ**, **mật khẩu máy nhánh** tương ứng, **domain tổng đài** của bạn. Sau đó nhấn **Save** để lưu lại thông tin máy nhánh nội bộ. `Lưu ý: Thông tin cấu hình được gửi cho bạn thông qua email kích hoạt tài khoản khi bạn đăng ký sử dụng dịch vụ CCALL Cloud.`
 
 ![](.gitbook/assets/5%20%281%29.png)
 
