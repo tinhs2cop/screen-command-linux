@@ -10,5 +10,5 @@ description: 'Tài liệu hướng dẫn lắp đặt cho thiết bị điện t
 
 
 
-Quý công ty hãy liên lạc với chúng tôi qua số điện thoại: **1900 1563** hoặc qua email: **support@epacific.com.vn**.
+Hãy liên lạc với chúng tôi qua số điện thoại: **1900 1563** hoặc qua email: **support@epacific.com.vn** để được tư vấn chi tiết.
 
