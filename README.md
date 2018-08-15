@@ -124,3 +124,7 @@ DND từ chối nhận cuộc gọi nhưng vẫn lưu lại lịch sử cuộc g
 
 ![](.gitbook/assets/11.png)
 
+
+
+Hãy liên lạc với chúng tôi qua số điện thoại: **1900 1563** hoặc qua email: **support@epacific.com.vn** để được tư vấn chi tiết.
+
