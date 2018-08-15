@@ -1,6 +1,6 @@
 # Hướng dẫn sử dụng CCALL Softphone
 
-Tài liệu hướng dẫn cài đặt và sử dụng CCALL Softphone cho khách hàng sử dụng tổng đài CCALL Cloud 
+Tài liệu hướng dẫn cài đặt và sử dụng CCALL Softphone cho khách hàng sử dụng tổng đài CCALL Cloud
 
 ## Đăng ký
 
@@ -62,21 +62,69 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
 ![](.gitbook/assets/7%20%281%29.png)
 
+## Sử dụng
+
 ### Thực hiện cuộc gọi
+
+Bấm trực tiếp số máy nhánh hoặc số điện thoại cần gọi.
+
+![](.gitbook/assets/1%20%281%29.png)
+
+### Chờ cuộc gọi
+
+Nhấn vào biểu tượng **Chờ** như hình dưới để giữ cuộc gọi. Nhấn tiếp 1 lần nữa để thoát chế độ chờ.
+
+![](.gitbook/assets/2.png)
+
+### Ghi âm cuộc gọi
+
+Chủ động ghi âm cuộc gọi bằng cách nhấn vào nút **Ghi âm** như trong hình, nhấn 1 lần nữa để kết thúc quá trình ghi âm hoặc hệ thống tự kết thúc quá trình ghi âm khi kết thúc cuộc gọi. File ghi âm sẽ được lưu lại trong điện thoại của bạn.
+
+![](.gitbook/assets/3%20%281%29.png)
+
+Tại màn hình lịch sử cuộc gọi bạn có thể thấy được cuộc gọi có ghi âm với biểu tượng bên góc phải, nhấn vào cuộc gọi đó để nghe lại file ghi âm.
+
+![](.gitbook/assets/9.png)
 
 ### Chuyển cuộc gọi
 
 #### Chuyển trực tiếp
 
-#### Chuyển có thâm vấn
+Tại màn hình cuộc gọi, nhấn nút **Chuyển** sau đó bấm số máy nhánh cần chuyển, nhấn nút **Gọi** để hoàn thành thao tác chuyển cuộc gọi.
+
+![](.gitbook/assets/4%20%281%29.png)
+
+#### Chuyển có thân vấn
+
+Tại màn hình cuộc gọi, nhấn nút **Chuyển tham vấn** sau đó bấm số máy nhánh cần chuyển tiếp theo bấm nút **Gọi**.
+
+![](.gitbook/assets/5.png)
+
+Cuộc gọi thứ nhất đang ở trạng thái chờ và  CCALL Softphone sẽ thực hiện cuộc gọi thứ 2 cho người cần chuyển. Khi người cần chuyển đồng ý nghe máy, nhấn **Chuyển** để hoàn thành thao tác chuyển cuộc gọi hoặc nhấn **Thoát** để quay lại cuộc gọi thứ nhất. Mục đích thông báo cho người gọi trong trường hợp người cần chuyển bận máy hoặc không muốn nghe máy.
+
+![](.gitbook/assets/6%20%281%29.png)
 
 ### Tạo phòng họp
 
-### Ghi âm cuộc gọi
+Tại màn hình cuộc gọi, bạn có thể tạo nhanh phòng họp 3 hoặc nhiều người bằng cách: Nhấn nút **Họp** sau đó bấm số điện thoại của người thứ 3.
+
+![](.gitbook/assets/7.png)
+
+Khi người thứ 3 bắt máy, nhấn nút **Họp** một lần nữa để hoàn thành thao tác. Bạn cũng có thể tách phòng họp để kết thúc cuộc gọi với 1 trong 2 người mà không cần kết thúc phòng họp bằng cách nhấn vào nút **Tách** khi đang trong phòng họp.
+
+![](.gitbook/assets/8.png)
+
+### Từ chối nhận cuộc gọi
+
+DND từ chối nhận cuộc gọi nhưng vẫn lưu lại lịch sử cuộc gọi đến.
+
+![](.gitbook/assets/10.png)
 
 ### Nhắn tin nội bộ
 
-### DND
+![](.gitbook/assets/11.png)
 
 
+
+Hãy liên lạc với chúng tôi qua số điện thoại: **1900 1563** hoặc qua email: **support@epacific.com.vn** để được tư vấn chi tiết.
 
