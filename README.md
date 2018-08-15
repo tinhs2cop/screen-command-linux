@@ -40,11 +40,11 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
 * Chọn tài khoản cần kích hoạt như hình dưới và ấn **Activate** để kích hoạt tài khoản đó. 
 
-![](.gitbook/assets/2.png)
+![](.gitbook/assets/2%20%281%29.png)
 
 * CCALL Softphone sẽ tải thông tin cầu hình của tài khoản và thực hiện cài đặt ứng dụng _\(bạn cần chờ đợi trong một vài phút để hoàn thành quá trình cài đặt\)_. Nhấn vào biểu tượng **gọi tổng đài viên** để kiểm thử cuộc gọi hoặc bạn có thể đăng ký thêm một tài khoản khác và gọi trực tiếp cho nhau thông qua hệ thống tổng đài test của CCALL Softphone. Bạn đã đăng ký tổng đài CCALL Cloud nhấn vào biểu tượng **Menu** để thêm cấu hình cho máy nhánh. 
 
-![](.gitbook/assets/8.png)
+![](.gitbook/assets/8%20%281%29.png)
 
 * Nhấn **Cài đặt tài khoản** sau đó chọn **Edit Account** để thêm máy nhánh cho tổng đài CCALL Cloud của công ty bạn. 
 
@@ -52,7 +52,7 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
 * Chọn **Add SIP extension**, điền thông tin **máy nhánh nội bộ**, **mật khẩu máy nhánh** tương ứng, **domain tổng đài** của bạn. Sau đó nhấn **Save** để lưu lại thông tin máy nhánh nội bộ. `Lưu ý: Thông tin được CCALL Softphone gửi cho bạn thông qua email kích hoạt tài khoản khi bạn đăng ký sử dụng dịch vụ CCALL Cloud.`
 
-![](.gitbook/assets/5.png)
+![](.gitbook/assets/5%20%281%29.png)
 
 * Nhấn kích hoạt máy nhánh nội bộ vừa thêm để sử dụng, trở về màn hình **Edit Account** bằng cách nhấn vào biểu tượng **Edit Account** như trên hình. 
 
@@ -60,21 +60,45 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
 * Lưu lại cấu hình để hoàn tất quá trình cài đặt, ngoài ra bạn có thể chọn **Tái thiết lập ứng dụng** để thoát hoàn toàn tài khoản CCALL Softphone. 
 
-![](.gitbook/assets/7.png)
+![](.gitbook/assets/7%20%281%29.png)
 
 ### Thực hiện cuộc gọi
+
+![](.gitbook/assets/1%20%281%29.png)
+
+### Chờ cuộc gọi
+
+![](.gitbook/assets/2.png)
+
+### Ghi âm cuộc gọi
+
+![](.gitbook/assets/3%20%281%29.png)
+
+![](.gitbook/assets/9.png)
 
 ### Chuyển cuộc gọi
 
 #### Chuyển trực tiếp
 
+![](.gitbook/assets/4%20%281%29.png)
+
 #### Chuyển có thân vấn
+
+![](.gitbook/assets/5.png)
+
+![](.gitbook/assets/6%20%281%29.png)
 
 ### Tạo phòng họp
 
-### Ghi âm cuộc gọi
+![](.gitbook/assets/7.png)
+
+![](.gitbook/assets/8.png)
+
+### Từ chối nhận cuộc gọi
+
+![](.gitbook/assets/10.png)
 
 ### Nhắn tin nội bộ
 
-### DND
+![](.gitbook/assets/11.png)
 
