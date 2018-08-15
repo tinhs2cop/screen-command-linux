@@ -1,7 +1,3 @@
----
-description: 'Tài liệu hướng dẫn lắp đặt cho thiết bị điện thoại Fanvil X1, X3S, . . .'
----
-
 # Hướng dẫn lắp đặt điện thoại Fanvil
 
 ![](.gitbook/assets/screen-shot-2018-08-15-at-14.24.55.png)

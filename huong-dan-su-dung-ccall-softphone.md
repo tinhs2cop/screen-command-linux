@@ -100,7 +100,7 @@ Tại màn hình cuộc gọi, nhấn nút **Chuyển tham vấn** sau đó bấ
 
 ![](.gitbook/assets/5.png)
 
-Cuộc gọi thứ nhất đang ở trạng thái chờ và  CCALL Softphone sẽ thực hiện cuộc gọi thứ 2 cho người cần chuyển. Khi người cần chuyển đồng ý nghe máy, nhấn **Chuyển** để hoàn thành thao tác chuyển cuộc gọi hoặc nhấn **Thoát** để quay lại cuộc gọi thứ nhất. Mục đích thông báo cho người gọi trong trường hợp người cần chuyển bận máy hoặc không muốn nghe máy.
+Cuộc gọi thứ nhất đang ở trạng thái chờ và CCALL Softphone sẽ thực hiện cuộc gọi thứ 2 cho người cần chuyển. Khi người cần chuyển đồng ý nghe máy, nhấn **Chuyển** để hoàn thành thao tác chuyển cuộc gọi hoặc nhấn **Thoát** để quay lại cuộc gọi thứ nhất. Mục đích thông báo cho người gọi trong trường hợp người cần chuyển bận máy hoặc không muốn nghe máy.
 
 ![](.gitbook/assets/6%20%281%29.png)
 
@@ -123,8 +123,6 @@ DND từ chối nhận cuộc gọi nhưng vẫn lưu lại lịch sử cuộc g
 ### Nhắn tin nội bộ
 
 ![](.gitbook/assets/11.png)
-
-
 
 Hãy liên lạc với chúng tôi qua số điện thoại: **1900 1563** hoặc qua email: **support@epacific.com.vn** để được tư vấn chi tiết.
 
